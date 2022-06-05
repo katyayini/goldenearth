@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <title>Marvel Store</title>
+</head>
+
+<body>
+    <header>
+        <nav class="bg-purple-800 text-white">
+            <div class="text-3xl font-bold pl-4 pt-4">Marvel Store</div>
+            <ul class="px-4 py-4 flex space-x-3 justify-end font-bold">
+                <li><a href>Home</a></li>
+                <li><a href>Locations</a></li>
+            </ul>
+        </nav>
+        <section class="w-full h-52">
+            <img src=".\assets\cityskyline.jpg" class="object-cover h-full w-full" alt="background">
+            <div class="flex position: absolute top-56 right-36">
+                <input type="text" id="search-term" placeholder="Search"
+                    class="bg-gray-50 border mr-4 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-50 pl-10 p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+
+                
+                <button type="button" id="search-btn" class="px-6 py-2.5 bg-blue-600 text-white font-medium text-xs uppercase rounded">
+                    Search
+                </button>
+
+               
+
+
+            </div>
+
+        </section>
+    </header>
+
+
+    <main>
+
+        <img class="object-cover" src=".\assets\background.jpg" alt="background">
+               <section class="absolute left-72 top-80 text-3xl text-black font-bold">Seacrh a keyword and books available at our stores will appear below!</section>
+           <section class="absolute left-48 top-96 h-fit w-3/4 p-4 flex" id="info-container"></section>
+            <aside class="absolute left-0 top-96 h-full pl-2 w-40 border-x-2 border-x-black"><div class="mb-2 border-dashed border-purple-900 p-2 border-4 mr-2 font-bold text-purple-900 bg-fuchsia-300">Recent Searches:</div>
+                <ul id="search-history"></ul>
+
+            </aside>  
+       
+        
+    
+    </main>
+
+   
+    <script src="script.js"></script>
+
+</body>
+
+</html>
