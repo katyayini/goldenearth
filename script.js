@@ -42,7 +42,7 @@ function clickedSearch() {
 
 
 function getSearchData(sstring) {
-  fetch("http://gateway.marvel.com/v1/public/comics?ts=1654105758&apikey=24921baf892e0ed42e2d60ca5d5deade&hash=49cb118bcbcd4dee237d7ce1d0a8921a&limit=100&offset=1100")
+  fetch("https://gateway.marvel.com/v1/public/comics?ts=1654105758&apikey=24921baf892e0ed42e2d60ca5d5deade&hash=49cb118bcbcd4dee237d7ce1d0a8921a&limit=100&offset=1100")
   .then(function (response) {
       if (response.ok) {
         response.json().then(function (data) {
