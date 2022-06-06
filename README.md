@@ -28,3 +28,4 @@ The application is built using HTML, TailwindCSS, CSS and JavaScript. Other serv
 
 ## Link to deploy the application
 
+https://katyayini.github.io/goldenearth/
