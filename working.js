@@ -1,3 +1,5 @@
+// Please note that the source of the code in this file is https://developers.google.com/maps/documentation/javascript/examples/map-geolocation
+
 // Store locations
 
 var store1Latitude = 43.7184326880091;
