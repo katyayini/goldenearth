@@ -15,9 +15,9 @@ The creation of this dashboard is motivated by making it easier for customers to
 
 The application is built using HTML, TailwindCSS, CSS and JavaScript. Other server Side APIs - Marvel API and Google Maps API**
 
-* **Note source of code for generating map in "working.js" is as follows:
+**Note source of code in "working.js" is as follows:
 
- Google. (n.d.). Google. Retrieved June 5, 2022, from https://developers.google.com/maps/documentation/javascript/examples/map-geolocation*
+ *Google. (n.d.). Google. Retrieved June 5, 2022, from https://developers.google.com/maps/documentation/javascript/examples/map-geolocation*
 
 
 ## Screenshot
@@ -28,3 +28,4 @@ The application is built using HTML, TailwindCSS, CSS and JavaScript. Other serv
 
 ## Link to deploy the application
 
+https://katyayini.github.io/goldenearth/
