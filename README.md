@@ -15,7 +15,7 @@ The creation of this dashboard is motivated by making it easier for customers to
 
 The application is built using HTML, TailwindCSS, CSS and JavaScript. Other server Side APIs - Marvel API and Google Maps API**
 
-**Note source of code in "location.html, style.css, working.js and location-script.js" is as follows:
+**Note source of code in "location.html", "style.css", "working.js" and "location-script.js" is as follows:
 
  *Google. (n.d.). Google. Retrieved June 5, 2022, from https://developers.google.com/maps/documentation/javascript/examples/map-geolocation*
 
