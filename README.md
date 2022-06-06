@@ -20,7 +20,7 @@ The application is built using HTML, TailwindCSS, CSS and JavaScript. Other serv
  *Google. (n.d.). Google. Retrieved June 5, 2022, from https://developers.google.com/maps/documentation/javascript/examples/map-geolocation*
 
 
-## Screenshot
+## Screenshots
 
 ![](assets/MarvelStore.JPG)
 ![](assets/locations.png)
