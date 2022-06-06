@@ -22,8 +22,8 @@ The application is built using HTML, TailwindCSS, CSS and JavaScript. Other serv
 
 ## Screenshot
 
-![](pictures/MarvelStore.JPG)
-![](pictures/locations.PNG)
+![](assets/MarvelStore.JPG)
+![](assets/locations.png)
 
 
 ## Link to deploy the application
